@@ -1,2 +1,13 @@
 .history/
 *.csv
+*.gz
+*.png
+*.zip
+*.jpg
+*.h5
+**/__MACOSX
+**/.DS_Store
+**/._*
+**/train
+**/test
+**/valid
