@@ -11,3 +11,7 @@
 **/train
 **/test
 **/valid
+*.jpeg
+*.gif
+*.pt
+**./images
